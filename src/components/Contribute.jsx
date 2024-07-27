@@ -9,9 +9,9 @@ function Contribute(){
             Share your ideas on how to better the collective    
             </p>
             <textarea placeholder="Start typing"></textarea>
-            <button>
+            <a>
             <img src={Submit} alt="" />
-            </button>
+            </a>
 
         </div>
         </>
