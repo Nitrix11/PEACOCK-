@@ -10,7 +10,7 @@ function Contribute(){
             </p>
             <textarea placeholder="Start typing"></textarea>
             <a>
-            <img src={Submit} alt="" />
+            <img src={Submit} alt="" className="submit"/>
             </a>
 
         </div>

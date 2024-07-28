@@ -5,7 +5,7 @@ function About() {
     <>
       <div id="about">
         <h1>The <span> <img src={SmallPeacock} alt="" /></span> Collective</h1>
-        <p>is just that - a collective.</p>
+        <p className="collective">is just that - a collective.</p>
         <div className="ptag">
           <p className="p1 p1-1">
             A collective of early adopters and{" "}

@@ -72,7 +72,7 @@ Second{" "}
                 Token transitions to a utility<span><br/></span> and governance token   
                 </p>
                 <p className="p3">
-                  Acquisition of <span><img src={Redacted2} alt="" /> </span> started  
+                  Acquisition of <span><img src={Redacted2} alt="" className="pic22"/> </span> started  
                 </p>
                   <div className="div">
 <p className="p2">
