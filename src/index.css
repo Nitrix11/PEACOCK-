@@ -454,7 +454,7 @@ margin-bottom: 100px;
 
 }
  #join2{
-  height: 50vh;
+  height: 68vh;
   p{
     font-size: 13px;
   }
@@ -512,6 +512,9 @@ margin-bottom: 100px;
         margin-top: 15px;
         width: 50%;
         margin-left: 120px;
+      }
+      textarea{
+        width: 85%;
       }
     }
     #hero{
@@ -621,6 +624,9 @@ margin-bottom: 100px;
 
   color: #fff;
   .cards{
+    .card{
+      margin-bottom: 80px;
+    }
     width: 100%;
     display: flex;
     align-items: center;
@@ -665,7 +671,7 @@ margin-bottom: 100px;
 
 }
  #join2{
-  height: 50vh;
+  height: 68vh;
   p{
     font-size: 13px;
   }
@@ -718,6 +724,9 @@ left: 50px;
     }
   }
   @media (max-width:425px) {
+    #join2{
+      height: 68vh;
+    }
     nav{
       margin: 0;
     }
@@ -770,7 +779,7 @@ left: 50px;
       }
       margin-left:0;
       textarea{
-        width: 50%;
+        width: 85%;
       }
     }
     #hero{
@@ -797,7 +806,7 @@ left: 50px;
         h2{
           font-size: 25px;
         }
-        .card{
+        .card{margin-bottom:100px;
           .pic22{
             width: 50px;
           }
